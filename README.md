@@ -12,5 +12,6 @@ This repo contain Sol of coursera's Web-D course
 
 
 ## Small Projects
-1. [Shopping list](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/shopping-list/index.html)
-2. [Background Generator](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/background-generator/index.html)
+1. [Robot friend](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/robotfriend/index.html)
+2. [Shopping list](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/shopping-list/index.html)
+3. [Background Generator](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/background-generator/index.html)
