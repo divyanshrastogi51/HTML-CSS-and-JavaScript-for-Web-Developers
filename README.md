@@ -9,3 +9,7 @@ This repo contain Sol of coursera's Web-D course
 ## Responsive Web Design Projects
 1. [Build a Tribute Page](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/Responsive%20Web%20Design%20Projects%20-%20Build%20a%20Tribute%20Page/index.html)
 2. [Build a Survey Form](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/Responsive%20Web%20Design%20Projects%20-%20Build%20a%20Survey%20Form/index.html)
+
+
+## Small Projects
+1. [Shopping list](https://divyanshrastogi51.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/shopping-list/index.html)
